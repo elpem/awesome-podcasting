@@ -31,6 +31,7 @@ I don't do video editing, feel free to suggest
 - [zencastr](https://zencastr.com) - A freemium platform for recording. Works on Chromium browsers
 
 ## Hosting platforms
+A comparison of existing offers in 2022 is available here (french) : https://www.vodio.fr/articles/39/comparatif-les-offres-d-hebergement-de-podcast/
 - [Podcloud](https://podcloud.fr/) - Awesome non-profit organisation for hosting and sharing podcast. Very efficient and ethic.
 - [Anchor](https://anchor.fm/) - Spotify's platform.
 - [Ausha](https://www.ausha.co/) - Another platform.
@@ -47,7 +48,7 @@ to launch live sounds
 
 ## Audio-to-text transcription
 - Word in browser with Office 365 license
-- 
+- [Rev](https://www.rev.com) - The first 40min free then 0.25$/min
 
 ## Virtual audio mixer
 - [Voicemeeter](https://vb-audio.com/Voicemeeter/) - Simple tool that permits to record audio from multiple real and virtual inputs. Free and Donationware.
