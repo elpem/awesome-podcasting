@@ -9,6 +9,7 @@ Opensource and community tools are favoured in this list, as they should be ever
 - [Audacity](https://www.audacityteam.org/download/) - Certainly the most simple, intuitive and free audio editor.
 - [Reaper](https://www.reaper.fm/) - Versatile and powerful audio editor. Winrarlike license.
   - [ReaperMania](https://www.youtube.com/@REAPERMania) - Amazing youtube channel to learn basics
+- [Adobe Audition](https://www.adobe.com/fr/products/audition.html) - For those who like Adobe products
 
 ## Audio Mastering
 - [Auphonic](https://auphonic.com/) - A powerful and automatic audio masterer to have a clean and equalized render.
