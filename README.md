@@ -10,6 +10,9 @@ Opensource and community tools are favoured in this list, as they should be ever
 - [Reaper](https://www.reaper.fm/) - Versatile and powerful audio editor. Winrarlike license.
   - [ReaperMania](https://www.youtube.com/@REAPERMania) - Amazing youtube channel to learn basics
 
+## Audio Mastering
+- [Auphonic](https://auphonic.com/) - A powerful and automatic audio masterer to have a clean and equalized render.
+
 ## Video Editing
 I don't do video editing, feel free to suggest
 
@@ -29,6 +32,9 @@ wordpress plugins ?
 
 ## Soundboards
 to launch live sounds
+
+## Audio-to-text transcription
+I'd love to learn more about that.
 
 ## Virtual audio mixer
 - [Voicemeeter](https://vb-audio.com/Voicemeeter/) - Simple tool that permits to record audio from multiple real and virtual inputs. Free and Donationware.
