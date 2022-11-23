@@ -11,6 +11,16 @@ Opensource and community tools are favoured in this list, as they should be ever
   - [ReaperMania](https://www.youtube.com/@REAPERMania) - Amazing youtube channel to learn basics
 - [Adobe Audition](https://www.adobe.com/fr/products/audition.html) - For those who like Adobe products
 
+### Reaper Plugins
+As Reaper is one of the most used audio editing software, here are usefull plugins (native or not) for podcast audio editing.
+- ReaFir - native plugin for noise reduction
+- [automixer](https://github.com/leafac/reaper/blob/main/README.md) - automatically equalizes inputs? and gates it too
+- ReaEq - native plugin for equalize with great presets
+- ReaGate - native plugin to cut low level sounds
+- ReaComp - native plugin for sound compressing with great presets (I like "Modern Vocal")
+- [TriLeveler](https://plugins4free.com/plugin/2753/) - Triple compressor with a LUFS setting
+- [LoudMax](https://loudmax.blogspot.com/) - a powerful limiter plugin
+
 ## Audio Mastering
 - [Auphonic](https://auphonic.com/) - A powerful and automatic audio masterer to have a clean and equalized render.
 
@@ -24,6 +34,7 @@ I don't do video editing, feel free to suggest
 - [Podcloud](https://podcloud.fr/) - Awesome non-profit organisation for hosting and sharing podcast. Very efficient and ethic.
 - [Anchor](https://anchor.fm/) - Spotify's platform.
 - [Ausha](https://www.ausha.co/) - Another platform.
+- Acast
 
 ## Sound banks
 - [Youtube Downloader](https://github.com/Tyrrrz/YoutubeDownloader#readme) - An easy-to-use and opensource youtube video/audio downloader.
@@ -35,7 +46,8 @@ wordpress plugins ?
 to launch live sounds
 
 ## Audio-to-text transcription
-I'd love to learn more about that.
+- Word in browser with Office 365 license
+- 
 
 ## Virtual audio mixer
 - [Voicemeeter](https://vb-audio.com/Voicemeeter/) - Simple tool that permits to record audio from multiple real and virtual inputs. Free and Donationware.
