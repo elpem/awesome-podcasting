@@ -25,7 +25,7 @@ As Reaper is one of the most used audio editing software, here are usefull plugi
 - [Auphonic](https://auphonic.com/) - A powerful and automatic audio masterer to have a clean and equalized render.
 
 ## Video Editing
-I don't do video editing, feel free to suggest
+- [Podcast Thumbnail Extractor](https://github.com/REMvisual/podcast-thumbnail-extractor) - Open-source AI thumbnail picker for podcast videos; local CV + CNN scoring, no cloud.
 
 ## Distance recording
 - [zencastr](https://zencastr.com) - A freemium platform for recording. Works on Chromium browsers
