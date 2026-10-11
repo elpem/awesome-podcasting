@@ -10,6 +10,7 @@ Opensource and community tools are favoured in this list, as they should be ever
 - [Reaper](https://www.reaper.fm/) - Versatile and powerful audio editor. Winrarlike license.
   - [ReaperMania](https://www.youtube.com/@REAPERMania) - Amazing youtube channel to learn basics
 - [Adobe Audition](https://www.adobe.com/fr/products/audition.html) - For those who like Adobe products
+- [QuietTake Noise Remover](https://noiseremover.site/) - Free browser-local RNNoise cleanup for short speech recordings; compare original/cleaned audio and export WAV, without an account or audio upload. Limited to 50 MB and five minutes.
 
 ### Reaper Plugins
 As Reaper is one of the most used audio editing software, here are usefull plugins (native or not) for podcast audio editing.
